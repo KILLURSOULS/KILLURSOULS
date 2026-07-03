@@ -1,4 +1,4 @@
-##[ ![wip](<a href="https://imgbb.com/"><img src="https://i.ibb.co/0VpLckQL/IMG-5391.jpg" alt="IMG 5391" border="0"></a>)
+wip <a href="https://imgbb.com/"><img src="https://i.ibb.co/0VpLckQL/IMG-5391.jpg" alt="IMG 5391" border="0"></a>
 
 <!--
 **KILLURSOULS/KILLURSOULS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
