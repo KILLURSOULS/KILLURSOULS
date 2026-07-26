@@ -9,3 +9,8 @@ wip
   <img src="https://i.postimg.cc/NFmm4KM5/Untitled329-20260726135704.png" width="90">
   <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="90">
 </p>
+<p align="right">
+
+  <img src="https://i.postimg.cc/nrFpd5V6/IMG-5854.gif" width="180">
+
+</p>
