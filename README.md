@@ -4,5 +4,5 @@ wip
   <img src="https://i.postimg.cc/4dvFYS1v/IMG-5847.gif" width="90">
   <img src="https://i.postimg.cc/GhfzmRCt/IMG-5849.gif" width="90">
   <br>
-  <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="270">
+  <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="90">
 </p>
