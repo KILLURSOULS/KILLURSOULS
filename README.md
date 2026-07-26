@@ -1,6 +1,4 @@
-wip <a href="https://imgbb.com/"><img src="https://i.ibb.co/0VpLckQL/IMG-5391.jpg" alt="IMG 5391" border="0"></a>
-<p align="right">
-<a href="https://youtu.be/5hpeBIQTzQE?si=mvkHWCsNeR9sE05s">
-<img src="https://files.catbox.moe/o0srqc.jpeg" width="220"/>
-</a>
+wip <p align="right">
+  <img src="https://files.catbox.moe/3c7ipj.pnj" width="220">
+  <img src="رابط_الصورة_الثانية" width="220">
 </p>
