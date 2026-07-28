@@ -2,18 +2,19 @@ wip
 <p align="center">
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
-
 <p align="center">
-  <marquee behavior="scroll" direction="left">
+  <marquee>
     <span style="
-      font-family:'Press Start 2P', monospace;
-      font-size:35px;
-      font-weight:bold;
+      font-size:40px;
+      font-weight:900;
       color:#AABEA3;
-      -webkit-text-stroke:2px black;
-      text-shadow:2px 2px 0 black;
+      text-shadow:
+      -2px -2px 0 black,
+       2px -2px 0 black,
+      -2px  2px 0 black,
+       2px  2px 0 black;
     ">
-      hi bye
+      HI BYE
     </span>
   </marquee>
 </p>
