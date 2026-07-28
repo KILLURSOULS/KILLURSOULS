@@ -54,7 +54,7 @@ or use my friends just to get closer
 
 to me. just talk to me instead cuz ew wt ?  
 
-<img src="https://i.postimg.cc/hvfLXCB9/IMG-5938.gif" width="25">
+<img src="https://i.postimg.cc/yY3XhYJ5/IMG-5878.gif" width="25">
 
 <br><br>
 
