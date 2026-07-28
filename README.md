@@ -71,7 +71,7 @@ so don’t mind that
 
 
 
-<img src="https://i.postimg.cc/mg7bHqQR/Untitled335-20260728185445.png" width="800">
+<img src="https://i.postimg.cc/mg7bHqQR/Untitled335-20260728185445.png" width="700">
 
 
 
