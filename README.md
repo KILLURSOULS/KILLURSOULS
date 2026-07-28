@@ -45,9 +45,11 @@ not always friendly tho, but free chat is alr
 
 
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="70%" valign="top">
+<div align="left">
+
+<div style="float: right;">
+<img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
+</div>
 
 also just know that I don’t really use social accounts sm, and don’t troll me or use my friends just to get closer to me. just talk to me instead cuz ew wt ?
 <img src="https://i.postimg.cc/hvfLXCB9/IMG-5938.gif" width="25">
@@ -56,10 +58,4 @@ also just know that I don’t really use social accounts sm, and don’t troll m
 
 and don’t be weird sm. at first I might seem awkward, it’s only because I don’t know u yet, so don’t mind that.
 
-</td>
-
-<td width="30%" align="right" valign="top">
-<img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
-</td>
-</tr>
-</table>
+</div>
