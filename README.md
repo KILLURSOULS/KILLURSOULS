@@ -3,7 +3,7 @@ wip
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
 <p align="center">
-  <img src="https://i.postimg.cc/ZqcSsHdk/Untitled333-20260728155432.png" width="80">
+  <img src="https://i.postimg.cc/ZqcSsHdk/Untitled333-20260728155432.png" width="90">
 </p>
 
 <p align="center">
