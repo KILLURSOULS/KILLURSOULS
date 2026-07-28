@@ -1,4 +1,4 @@
-wip <img src="https://i.postimg.cc/mZc6nVxF/IMG-5923.gif" width="25">
+wip <img src="https://i.postimg.cc/mZc6nVxF/IMG-5923.gif" width="40">
 <p align="center">
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
