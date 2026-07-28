@@ -29,7 +29,7 @@ wip
 
   <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="100">
 
-<p align="left">
+<p align="center">
 hi bye, MOSTLY AFK but u can w2i, idm 
 <img src="https://i.postimg.cc/hvfLXCB9/IMG-5938.gif" width="25">
 <br>
