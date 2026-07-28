@@ -54,8 +54,6 @@ to me. just talk to me instead doing that cuz ew
 
 <img src="https://i.postimg.cc/yY3XhYJ5/IMG-5878.gif" width="25">
 
-<br><br>
-
 and don’t be weird sm.  
 at first I might seem awkward,  
 it’s only because I don’t know u yet,  
