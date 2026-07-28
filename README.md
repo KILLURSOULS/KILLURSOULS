@@ -81,4 +81,10 @@ so don’t mind that
   <img src="https://i.postimg.cc/cC5Qf6Gc/IMG-5866.gif" width="500">
 </p> 
 
-[social accounts](https://guns.lol/killursouls) .
+
+
+
+
+<p align="center">
+  <a href="https://guns.lol/killursouls">Social Accounts</a> .
+</p>
