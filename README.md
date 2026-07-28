@@ -3,6 +3,13 @@ wip
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
 
+<p align="center">
+  <marquee behavior="scroll" direction="left">
+    <span style="color:#AABEA3; font-size:40px; font-weight:900; text-shadow: 2px 2px 0 #000;">
+      HI BYE
+    </span>
+  </marquee>
+</p>
 
 <p align="center">
   <img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90">
