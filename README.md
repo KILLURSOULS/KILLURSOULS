@@ -2,13 +2,33 @@ wip
 <p align="center">
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
-<p align="center">
-  <marquee behavior="scroll" direction="left">
-    <span style="color:#AABEA3; font-size:40px; font-weight:900; text-shadow: 3px 3px 0 #000;">
-      L̶O̶S̶T̶ ̶S̶O̶U̶L̶
-    </span>
-  </marquee>
-</p>
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .marquee {
+      animation: scroll 8s linear infinite;
+    }
+    @keyframes scroll {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+
+  <g class="marquee">
+    <text x="0" y="60"
+      fill="#AABEA3"
+      stroke="black"
+      stroke-width="3"
+      font-size="50"
+      font-weight="bold">
+      LOST SOUL
+    </text>
+  </g>
+</svg>
+
 <p align="center">
   <img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90">
   <img src="https://i.postimg.cc/Ssh37hPG/IMG-5915.png" width="90">
@@ -36,4 +56,12 @@ wip
 <p align="right">
   <img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
 </p> 
+
+
+
+
+
+
+
+
 
