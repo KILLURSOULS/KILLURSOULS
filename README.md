@@ -67,7 +67,7 @@ it’s only because I don’t know u yet,
 so don’t mind that
     </td>
     <td align="right">
-      <img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
+      <img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="200">
     </td>
   </tr>
 </table>
