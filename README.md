@@ -5,7 +5,7 @@ wip
 <p align="center">
   <marquee behavior="scroll" direction="left">
     <span style="color:#AABEA3; font-size:40px; font-weight:900; text-shadow: 3px 3px 0 #000;">
-      LOST SOUL
+      L̶O̶S̶T̶ ̶S̶O̶U̶L̶
     </span>
   </marquee>
 </p>
