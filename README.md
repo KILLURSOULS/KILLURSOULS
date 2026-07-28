@@ -3,16 +3,17 @@ wip
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
 </p> 
 <p align="center">
-  <marquee>
+  <marquee behavior="scroll" direction="left">
     <span style="
       font-size:40px;
       font-weight:900;
       color:#AABEA3;
       text-shadow:
-      -2px -2px 0 black,
-       2px -2px 0 black,
-      -2px  2px 0 black,
-       2px  2px 0 black;
+      -3px -3px 0 black,
+       3px -3px 0 black,
+      -3px  3px 0 black,
+       3px  3px 0 black;
+      letter-spacing:2px;
     ">
       HI BYE
     </span>
