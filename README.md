@@ -72,3 +72,11 @@ so don’t mind that
 
 
 <img src="https://i.postimg.cc/mg7bHqQR/Untitled335-20260728185445.png" width="800">
+
+
+
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/cC5Qf6Gc/IMG-5866.gif" width="500">
+</p> 
