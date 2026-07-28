@@ -45,11 +45,9 @@ not always friendly tho, but free chat is alr
 
 
 
-<div align="left">
-
-<div style="float: right;">
-<img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
-</div>
+<table>
+  <tr>
+    <td align="left" valign="top">
 
 also just know that I don’t really use  
 social accounts sm, and don’t troll me  
@@ -64,4 +62,10 @@ at first I might seem awkward,
 it’s only because I don’t know u yet,  
 so don’t mind that.
 
-</div>
+    </td>
+
+    <td align="right" valign="top">
+      <img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
+    </td>
+  </tr>
+</table>
