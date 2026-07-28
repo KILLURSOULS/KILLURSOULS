@@ -70,7 +70,7 @@ so don’t mind that
 
 
 
-
+<p align="center">
 <img src="https://i.postimg.cc/mg7bHqQR/Untitled335-20260728185445.png" width="400">
 
 
