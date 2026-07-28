@@ -4,14 +4,6 @@ wip
 </p> 
 
 <p align="center">
-  <marquee behavior="scroll" direction="left">
-    <span style="color:#AABEA3; font-size:40px; font-weight:900; text-shadow: 2px 2px 0 #000;">
-      HI BYE
-    </span>
-  </marquee>
-</p>
-
-<p align="center">
   <img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90">
   <img src="https://i.postimg.cc/Ssh37hPG/IMG-5915.png" width="90">
   <img src="https://i.postimg.cc/N0hzBtB8/IMG-5926.gif" width="90">
