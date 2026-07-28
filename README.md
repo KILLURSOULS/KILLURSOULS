@@ -29,7 +29,7 @@ wip
 
   <br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://i.postimg.cc/QtC5zBwq/IMG-5936.gif" width="90">
   <img src="https://i.postimg.cc/L53KMs7q/IMG-5844.png" width="90">
