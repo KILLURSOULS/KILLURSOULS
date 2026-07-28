@@ -1,12 +1,21 @@
 wip
 <p align="center">
   <img src="https://i.postimg.cc/Gm0v7mcv/IMG-5866.gif" width="500">
-</p>
+</p> 
 
 <p align="center">
-  <span style="font-family: 'Press Start 2P', monospace; font-size: 35px; font-weight: bold; color: #ffffff; -webkit-text-stroke: 2px black;">
-    hi bye
-  </span>
+  <marquee behavior="scroll" direction="left">
+    <span style="
+      font-family:'Press Start 2P', monospace;
+      font-size:35px;
+      font-weight:bold;
+      color:#AABEA3;
+      -webkit-text-stroke:2px black;
+      text-shadow:2px 2px 0 black;
+    ">
+      hi bye
+    </span>
+  </marquee>
 </p>
 
 <p align="center">
