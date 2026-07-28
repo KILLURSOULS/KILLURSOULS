@@ -42,24 +42,3 @@ not always friendly tho, but free chat is alr
 <img src="https://i.postimg.cc/D0D9tY6x/IMG-5923.gif" width="40">
 𝗮𝗻𝗱 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗹𝗼𝗰𝗸 𝘂 𝗶𝗳 𝗜 𝗳𝗲𝗲𝗹 𝘂𝗻𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲 𝘄 𝘂 
 </p>
-
-
-
-
-
-
-
-<table>
-  <tr>
-    <td align="left">
-      also just know that I don’t really use social accounts sm, and don’t troll me or use my friends just to get closer to me. just talk to me instead cuz ew wt ?
-      <img src="https://i.postimg.cc/hvfLXCB9/IMG-5938.gif" width="25">
-      <br><br>
-      and don’t be weird sm. at first I might seem awkward, it’s only because I don’t know u yet, so don’t mind that.
-    </td>
-
-    <td align="right">
-      <img src="https://i.postimg.cc/fT5jg0CJ/IMG-5865.gif" width="180">
-    </td>
-  </tr>
-</table>
