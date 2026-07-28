@@ -4,6 +4,12 @@ wip
 </p>
 
 <p align="center">
+  <span style="font-family: 'Press Start 2P', monospace; font-size: 35px; font-weight: bold; color: #ffffff; -webkit-text-stroke: 2px black;">
+    hi bye
+  </span>
+</p>
+
+<p align="center">
   <img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90">
   <img src="https://i.postimg.cc/Ssh37hPG/IMG-5915.png" width="90">
   <img src="https://i.postimg.cc/N0hzBtB8/IMG-5926.gif" width="90">
