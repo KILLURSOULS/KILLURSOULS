@@ -53,17 +53,24 @@ so don’t mind that
 </table>
 
 <p align="left">
-  <img src="https://i.posting.cc/GhfzmRCt/IMG-5849.gif" width="90"><br><br>
-
-  <img src="https://i.postimg.cc/85nfm1w5/IMG-5848.png" width="90" style="margin-left:40px;"><br><br>
-
-  <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="100" style="margin-left:80px;"><br><br>
-
-  <img src="https://i.postimg.cc/NFmm4KM5/Untitled329-20260726135704.png" width="100" style="margin-left:120px;"><br><br>
-
-  <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="100" style="margin-left:160px;">
+  <img src="https://i.posting.cc/GhfzmRCt/IMG-5849.gif" width="90">
 </p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/85nfm1w5/IMG-5848.png" width="90">
+</p>
+
+<p align="right">
+  <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="100">
+</p>
+
+<p align="left">
+  <img src="https://i.postimg.cc/NFmm4KM5/Untitled329-20260726135704.png" width="100">
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="100">
+</p>
 
 
 <p align="center">
