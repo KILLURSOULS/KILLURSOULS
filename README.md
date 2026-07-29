@@ -6,7 +6,7 @@ wip
   <img src="https://i.postimg.cc/zvqdxyQ9/Untitled333-20260728155432.png" width="90">
 </p>
 
-
+<img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90"> <img src="https://i.postimg.cc/Ssh37hPG/IMG-5915.png" width="90"> <img src="https://i.postimg.cc/N0hzBtB8/IMG-5926.gif" width="90"> <img src="https://i.postimg.cc/nz2R4QBp/IMG-5927.gif" width="90"> <img src="https://i.postimg.cc/MTpb83fk/IMG-5935.gif" width="90">
 
 <p align="center">
 hi bye, MOSTLY AFK but u can w2i, idm 
@@ -21,6 +21,10 @@ not always friendly tho, but free chat is alr
 <img src="https://i.postimg.cc/D0D9tY6x/IMG-5923.gif" width="40">
 𝗮𝗻𝗱 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗹𝗼𝗰𝗸 𝘂 𝗶𝗳 𝗜 𝗳𝗲𝗲𝗹 𝘂𝗻𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲 𝘄 𝘂 
 </p>
+
+<img src="https://i.postimg.cc/0yGpK17t/IMG-5911.gif" width="90"> <img src="https://i.postimg.cc/QtC5zBwq/IMG-5936.gif" width="90"> <img src="https://i.postimg.cc/L53KMs7q/IMG-5844.png" width="90"> <img src="https://i.postimg.cc/4dvFYS1v/IMG-5847.gif" width="90">
+
+
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ so don’t mind that
   </tr>
 </table>
 
-
+<img src="https://i.postimg.cc/GhfzmRCt/IMG-5849.gif" width="90"> <img src="https://i.postimg.cc/85nfm1w5/IMG-5848.png" width="90"> <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="100"> <img src="https://i.postimg.cc/NFmm4KM5/Untitled329-20260726135704.png" width="100"> <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="100">
 
 
 
