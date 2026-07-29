@@ -13,8 +13,6 @@ wip
   <img src="https://i.postimg.cc/nz2R4QBp/IMG-5927.gif" width="90">
   <img src="https://i.postimg.cc/MTpb83fk/IMG-5935.gif" width="90">
   <img src="https://i.postimg.cc/0yGpK17t/IMG-5911.gif" width="90">
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/QtC5zBwq/IMG-5936.gif" width="90">
   <img src="https://i.postimg.cc/L53KMs7q/IMG-5844.png" width="90">
   <img src="https://i.postimg.cc/4dvFYS1v/IMG-5847.gif" width="90">
