@@ -52,7 +52,7 @@ so don’t mind that
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
 <img src="https://i.posting.cc/GhfzmRCt/IMG-5849.gif" width="90"> 
   <p align="right">
   <img src="https://i.postimg.cc/85nfm1w5/IMG-5848.png" width="90">
