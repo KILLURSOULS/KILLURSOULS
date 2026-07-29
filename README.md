@@ -52,12 +52,10 @@ so don’t mind that
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://i.posting.cc/GhfzmRCt/IMG-5849.gif" width="90">
-</p>
+
 
 <p align="center">
-  <img src="https://i.postimg.cc/85nfm1w5/IMG-5848.png" width="90">
+  <img src="https://i.postimg.cc/FzwfFJXn/IMG-5849.gif" width="90">
 </p>
 
 <p align="right">
