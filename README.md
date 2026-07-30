@@ -16,7 +16,7 @@ hi bye, MOSTLY AFK but u can w2i, idm
 <br>
 call me mutab or mut or whatever u like!
 <br>
-not always friendly tho, but free chat is alr
+not always friendly tho, but free chat c+h is alr
 </p>
 <p align="left">
 𝗱𝗻𝗶 𝗜𝗳 𝘆𝗼𝘂 𝗮𝗿𝗲 𝘂𝗻𝗱𝗲𝗿 𝟭𝟲 𝗜𝗳 𝘆𝗼𝘂 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁𝗹𝘆 𝗮𝗿𝗴𝘂𝗲 𝗼𝘃𝗲𝗿 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗼𝗿 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 𝗦𝗵𝗶 𝗮𝗯𝗼𝘂𝘁 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗲 𝗜 𝘄𝗶𝗹𝗹 𝘄𝗵𝗼𝗼𝗽 𝘂𝗿 𝗮𝟴𝟴 
