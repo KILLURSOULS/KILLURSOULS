@@ -14,7 +14,7 @@ wip
 hi bye, MOSTLY AFK but u can w2i, idm 
 <img src="https://i.postimg.cc/hvfLXCB9/IMG-5938.gif" width="25">
 <br>
-call me mutab or mut or whatever u like!
+call me mutab or mut dan danah bun or WHATEVER u like!
 <br>
 not always friendly tho, but free chat c+h is alr
 </p>
