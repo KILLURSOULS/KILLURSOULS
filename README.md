@@ -19,8 +19,7 @@ call me mutab or mut dan danah bun or cutz WHATEVER u like!
 not always friendly tho, but free chat c+h is alr
 </p>
 <p align="left">
-𝗱𝗻𝗶 𝗜𝗳 𝘆𝗼𝘂 𝗮𝗿𝗲 𝘂𝗻𝗱𝗲𝗿 𝟭𝟲 𝗜𝗳 𝘆𝗼𝘂 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁𝗹𝘆 𝗮𝗿𝗴𝘂𝗲 𝗼𝘃𝗲𝗿 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗼𝗿 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 𝗦𝗵𝗶 𝗮𝗯𝗼𝘂𝘁 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗲  
-<img src="https://i.postimg.cc/D0D9tY6x/IMG-5923.gif" width="40">
+𝗱𝗻𝗶 𝗜𝗳 𝘆𝗼𝘂 𝗮𝗿𝗲 𝘂𝗻𝗱𝗲𝗿 𝟭𝟲 𝗜𝗳 𝘆𝗼𝘂 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁𝗹𝘆 𝗮𝗿𝗴𝘂𝗲 𝗼𝘃𝗲𝗿 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗼𝗿 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 𝗦𝗵𝗶 𝗮𝗯𝗼𝘂𝘁 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗲 
 𝗮𝗻𝗱 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗹𝗼𝗰𝗸 𝘂 𝗶𝗳 𝗜 𝗳𝗲𝗲𝗹 𝘂𝗻𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲 𝘄 𝘂 at first I might seem awkward,  
 it’s only because I don’t know u yet,  so don’t mind that
 
