@@ -1,10 +1,7 @@
 
 <p align="center">
   <img src="https://i.postimg.cc/cC5Qf6Gc/IMG-5866.gif" width="500">
-</p> 
-<p align="center">
-  <img src="https://i.postimg.cc/zvqdxyQ9/Untitled333-20260728155432.png" width="90">
-</p>
+
 
 <p align="center">
 <img src="https://i.postimg.cc/nhXynT7z/IMG-5914.png" width="90"> <img src="https://i.postimg.cc/Ssh37hPG/IMG-5915.png" width="90"> <img src="https://i.postimg.cc/N0hzBtB8/IMG-5926.gif" width="90"> <img src="https://i.postimg.cc/nz2R4QBp/IMG-5927.gif" width="90"> <img src="https://i.postimg.cc/MTpb83fk/IMG-5935.gif" width="90">
