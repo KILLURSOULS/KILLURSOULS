@@ -31,24 +31,12 @@ it’s only because I don’t know u yet,  so don’t mind that
 </p>
 
 
-
-
-
 <p align="center">
-  <img src="https://i.postimg.cc/FzwfFJXn/IMG-5849.gif" width="90">
-</p>
+<img src="https://i.postimg.cc/c1h6yLW3/IMG-5865.gif" width="400">
 
-<p align="right">
-  <img src="https://i.postimg.cc/KcR9TfDH/Untitled329-20260726135745.png" width="100">
-</p>
 
-<p align="left">
-  <img src="https://i.postimg.cc/NFmm4KM5/Untitled329-20260726135704.png" width="100">
-</p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/Gp645b6g/Untitled329-20260726135720.png" width="100">
-</p>
+
 
 
 <p align="center">
