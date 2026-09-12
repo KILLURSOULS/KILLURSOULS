@@ -33,8 +33,6 @@ it’s only because I don’t know u yet,  so don’t mind that
 
 
 
-<img src="https://i.postimg.cc/yY3XhYJ5/IMG-5878.gif" width="25">
-
 
 <p align="center">
   <img src="https://i.postimg.cc/FzwfFJXn/IMG-5849.gif" width="90">
